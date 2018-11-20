@@ -2,7 +2,7 @@
 #define ARTIKAL_HPP_INCLUDED
 
 #include "dinstring.hpp"
-#include <iostream>
+//#include <iostream>
 
 using namespace std;
 
