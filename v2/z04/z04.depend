@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1540306483 source:/home/stud/ra30-2017/_op/v2/z04/main.cpp
+	<iostream>
+
+1540307331 source:/home/stud/ra30-2017/_op/v2/z04/televizor.cpp
+	"televizor.hpp"
+
+1540307526 /home/stud/ra30-2017/_op/v2/z04/televizor.hpp
+

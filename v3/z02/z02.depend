@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1540912503 source:/home/stud/ra30-2017/_op/v3/z02/main.cpp
+	<iostream>
+	"automobil.hpp"
+
+1540912679 /home/stud/ra30-2017/_op/v3/z02/automobil.hpp
+	"menjac.hpp"
+	"skoljka.hpp"
+
+1540912736 /home/stud/ra30-2017/_op/v3/z02/menjac.hpp
+
+1540912715 /home/stud/ra30-2017/_op/v3/z02/skoljka.hpp
+

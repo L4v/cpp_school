@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1540908489 source:/home/stud/ra30-2017/_op/v3/z01/main.cpp
+	<iostream>
+	<iomanip>
+	"valjak.hpp"
+
+1540897441 /home/stud/ra30-2017/_op/v3/z01/valjak.hpp
+	"krug.hpp"
+	"pravougaonik.hpp"
+
+1540638464 /home/stud/ra30-2017/_op/v3/z01/krug.hpp
+	<cmath>
+
+1540638464 /home/stud/ra30-2017/_op/v3/z01/pravougaonik.hpp
+

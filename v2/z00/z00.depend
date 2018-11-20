@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1540298792 source:/home/stud/ra30-2017/_op/v2/z00/main.cpp
+	<iostream>
+	"osoba.hpp"
+
+1540299211 /home/stud/ra30-2017/_op/v2/z00/osoba.hpp
+	<iostream>
+

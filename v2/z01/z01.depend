@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1540079142 source:/home/stud/ra30-2017/_op/v2/z01/kocka.cpp
+	"kocka.hpp"
+
+1540079144 /home/stud/ra30-2017/_op/v2/z01/kocka.hpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1540079146 source:/home/stud/ra30-2017/_op/v2/z01/main.cpp
+	"kocka.hpp"
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1540305761 source:/home/stud/ra30-2017/_op/v2/z03/main.cpp
+	<iostream>
+	"machine.hpp"
+
+1540305144 source:/home/stud/ra30-2017/_op/v2/z03/machine.cpp
+	"machine.hpp"
+
+1540305814 /home/stud/ra30-2017/_op/v2/z03/machine.hpp
+

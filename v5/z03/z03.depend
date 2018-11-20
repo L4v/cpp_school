@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1542123301 source:/home/stud/ra30-2017/_op/v5/z03/main.cpp
+	<iostream>
+	"oblik.hpp"
+
+1542123363 /home/stud/ra30-2017/_op/v5/z03/oblik.hpp
+	"krug.hpp"
+	"kvadrat.hpp"
+	<iostream>
+
+1542122147 /home/stud/ra30-2017/_op/v5/z03/krug.hpp
+	"elipsa.hpp"
+
+1542123398 /home/stud/ra30-2017/_op/v5/z03/elipsa.hpp
+	"figura.hpp"
+	<cmath>
+
+1542122135 /home/stud/ra30-2017/_op/v5/z03/figura.hpp
+
+1542121988 /home/stud/ra30-2017/_op/v5/z03/kvadrat.hpp
+	"pravougaonik.hpp"
+
+1542122692 /home/stud/ra30-2017/_op/v5/z03/pravougaonik.hpp
+	"figura.hpp"
+
