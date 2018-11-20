@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1542729301 source:/home/stud/ra30-2017/_op/v6/z05/main.cpp
+	<iostream>
+	"trezor.hpp"
+	"dijamant.hpp"
+
+1542729315 /home/stud/ra30-2017/_op/v6/z05/trezor.hpp
+
+1542729012 /home/stud/ra30-2017/_op/v6/z05/dijamant.hpp
+	<iostream>
+
