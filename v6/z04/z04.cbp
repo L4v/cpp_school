@@ -32,7 +32,10 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="dinstring.cpp" />
+		<Unit filename="dinstring.hpp" />
 		<Unit filename="main.cpp" />
+		<Unit filename="niz.hpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
