@@ -32,7 +32,12 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="dinstring.cpp" />
+		<Unit filename="dinstring.hpp" />
 		<Unit filename="main.cpp" />
+		<Unit filename="osoba.hpp" />
+		<Unit filename="phdstudent.hpp" />
+		<Unit filename="student.hpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />

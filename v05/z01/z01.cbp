@@ -32,14 +32,17 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="jkstrougao.hpp" />
-		<Unit filename="jktrougao.hpp" />
+		<Unit filename="dinstring.cpp" />
+		<Unit filename="dinstring.hpp" />
 		<Unit filename="main.cpp" />
-		<Unit filename="trougao.hpp" />
+		<Unit filename="osoba.hpp" />
+		<Unit filename="phdstudent.hpp" />
+		<Unit filename="student.hpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
 			<debugger />
+			<lib_finder disable_auto="1" />
 		</Extensions>
 	</Project>
 </CodeBlocks_project_file>

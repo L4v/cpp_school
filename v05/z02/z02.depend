@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1543747335 source:/home/hk-47/workspace/cpp/cpp_school/v05/z02/main.cpp
+	<iostream>
+	"oblik.hpp"
+
+1543747532 /home/hk-47/workspace/cpp/cpp_school/v05/z02/oblik.hpp
+	"krug.hpp"
+	"kvadrat.hpp"
+	<iostream>
+
+1543746952 /home/hk-47/workspace/cpp/cpp_school/v05/z02/krug.hpp
+	"elipsa.hpp"
+
+1543747358 /home/hk-47/workspace/cpp/cpp_school/v05/z02/elipsa.hpp
+	"figura.hpp"
+
+1543747058 /home/hk-47/workspace/cpp/cpp_school/v05/z02/figura.hpp
+	<cmath>
+
+1543747370 /home/hk-47/workspace/cpp/cpp_school/v05/z02/kvadrat.hpp
+	"pravougaonik.hpp"
+
+1543747145 /home/hk-47/workspace/cpp/cpp_school/v05/z02/pravougaonik.hpp
+	"figura.hpp"
+
