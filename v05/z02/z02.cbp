@@ -32,7 +32,13 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="elipsa.hpp" />
+		<Unit filename="figura.hpp" />
+		<Unit filename="krug.hpp" />
+		<Unit filename="kvadrat.hpp" />
 		<Unit filename="main.cpp" />
+		<Unit filename="oblik.hpp" />
+		<Unit filename="pravougaonik.hpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
