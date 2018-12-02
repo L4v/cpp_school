@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1543189432 source:/home/stud/ra30-2017/_op/v7/z03/dinstring.cpp
+	"dinstring.hpp"
+
+1543189433 /home/stud/ra30-2017/_op/v7/z03/dinstring.hpp
+	<iostream>
+
+1543330184 source:/home/stud/ra30-2017/_op/v7/z03/main.cpp
+	"profesor.hpp"
+	"student.hpp"
+	"ucionica.hpp"
+
+1543330443 /home/stud/ra30-2017/_op/v7/z03/profesor.hpp
+	"osoba.hpp"
+
+1543330455 /home/stud/ra30-2017/_op/v7/z03/osoba.hpp
+	"dinstring.hpp"
+	<iostream>
+
+1543330473 /home/stud/ra30-2017/_op/v7/z03/student.hpp
+	"osoba.hpp"
+
+1543330284 /home/stud/ra30-2017/_op/v7/z03/ucionica.hpp
+	"list.hpp"
+	"osoba.hpp"
+
+1543189433 /home/stud/ra30-2017/_op/v7/z03/list.hpp
+	<stdlib.h>
+	<iostream>
+

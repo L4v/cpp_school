@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1543189432 source:/home/stud/ra30-2017/_op/v7/z04/dinstring.cpp
+	"dinstring.hpp"
+
+1543189433 /home/stud/ra30-2017/_op/v7/z04/dinstring.hpp
+	<iostream>
+
+1543334303 source:/home/stud/ra30-2017/_op/v7/z04/main.cpp
+	<iostream>
+	"evidencijalekova.hpp"
+
+1543334333 /home/stud/ra30-2017/_op/v7/z04/evidencijalekova.hpp
+	"list.hpp"
+	"lek.hpp"
+	<iostream>
+
+1543189433 /home/stud/ra30-2017/_op/v7/z04/list.hpp
+	<stdlib.h>
+	<iostream>
+
+1543333005 /home/stud/ra30-2017/_op/v7/z04/lek.hpp
+	"dinstring.hpp"
+	"artikal.hpp"
+	<iostream>
+
+1543330856 /home/stud/ra30-2017/_op/v7/z04/artikal.hpp
+

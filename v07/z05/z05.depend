@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1543756887 source:/home/hk-47/workspace/cpp/cpp_school/v07/z05/dinstring.cpp
+	"dinstring.hpp"
+
+1543756887 /home/hk-47/workspace/cpp/cpp_school/v07/z05/dinstring.hpp
+	<iostream>
+
+1543759869 source:/home/hk-47/workspace/cpp/cpp_school/v07/z05/main.cpp
+	<iostream>
+	"student.hpp"
+
+1543759908 /home/hk-47/workspace/cpp/cpp_school/v07/z05/student.hpp
+	"predmet.hpp"
+
+1543759825 /home/hk-47/workspace/cpp/cpp_school/v07/z05/predmet.hpp
+	"kolokvijum.hpp"
+	"list.hpp"
+
+1543759760 /home/hk-47/workspace/cpp/cpp_school/v07/z05/kolokvijum.hpp
+	"test.hpp"
+	<cstdlib>
+
+1543759790 /home/hk-47/workspace/cpp/cpp_school/v07/z05/test.hpp
+	"dinstring.hpp"
+	<iostream>
+
+1543756887 /home/hk-47/workspace/cpp/cpp_school/v07/z05/list.hpp
+	<stdlib.h>
+	<iostream>
+
