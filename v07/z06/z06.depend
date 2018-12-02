@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1543779501 source:/home/hk-47/workspace/cpp/cpp_school/v07/z06/dinstring.cpp
+	"dinstring.hpp"
+
+1543779501 /home/hk-47/workspace/cpp/cpp_school/v07/z06/dinstring.hpp
+	<iostream>
+
