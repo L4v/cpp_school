@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1543743270 source:/home/hk-47/workspace/cpp/cpp_school/v04/z01/main.cpp
+	<iostream>
+	"jkstrougao.hpp"
+
+1543743291 /home/hk-47/workspace/cpp/cpp_school/v04/z01/jkstrougao.hpp
+	"jktrougao.hpp"
+
+1543743284 /home/hk-47/workspace/cpp/cpp_school/v04/z01/jktrougao.hpp
+	"trougao.hpp"
+
+1543743550 /home/hk-47/workspace/cpp/cpp_school/v04/z01/trougao.hpp
+	<cmath>
+

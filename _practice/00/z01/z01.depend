@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1543489650 source:/home/hk-47/workspace/cpp/cpp_school/_practice/00/z01/dinstring.cpp
+	"dinstring.hpp"
+
+1543489650 /home/hk-47/workspace/cpp/cpp_school/_practice/00/z01/dinstring.hpp
+	<iostream>
+
+1543493934 source:/home/hk-47/workspace/cpp/cpp_school/_practice/00/z01/main.cpp
+	<iostream>
+	"artikal.hpp"
+
+1543493887 /home/hk-47/workspace/cpp/cpp_school/_practice/00/z01/artikal.hpp
+	"dinstring.hpp"
+	<iostream>
+
