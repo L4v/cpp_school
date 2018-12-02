@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1543782610 source:/home/hk-47/workspace/cpp/cpp_school/v07/z07/dinstring.cpp
+	"dinstring.hpp"
+
+1543782610 /home/hk-47/workspace/cpp/cpp_school/v07/z07/dinstring.hpp
+	<iostream>
+
+1543786153 source:/home/hk-47/workspace/cpp/cpp_school/v07/z07/main.cpp
+	<iostream>
+	"grad.hpp"
+	"voce.hpp"
+	"odeca.hpp"
+
+1543786181 /home/hk-47/workspace/cpp/cpp_school/v07/z07/grad.hpp
+	"prodavnica.hpp"
+
+1543786220 /home/hk-47/workspace/cpp/cpp_school/v07/z07/prodavnica.hpp
+	"proizvod.hpp"
+	"list.hpp"
+
+1543786288 /home/hk-47/workspace/cpp/cpp_school/v07/z07/proizvod.hpp
+	"dinstring.hpp"
+	<iostream>
+
+1543782610 /home/hk-47/workspace/cpp/cpp_school/v07/z07/list.hpp
+	<stdlib.h>
+	<iostream>
+
+1543786087 /home/hk-47/workspace/cpp/cpp_school/v07/z07/voce.hpp
+	"proizvod.hpp"
+
+1543786139 /home/hk-47/workspace/cpp/cpp_school/v07/z07/odeca.hpp
+	"proizvod.hpp"
+
