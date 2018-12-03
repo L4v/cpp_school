@@ -18,7 +18,7 @@ public:
     int getCena() const { return cena; }
 
     virtual void izracunajPopust() = 0;
-    void ispisi()const{
+    virtual void ispisi()const{
         cout << "NAZIV: " << naziv << endl << "CENA: " << cena << endl;
     }
 };

@@ -27,7 +27,7 @@ public:
             }
         }
         prodavnice.read(ind, tmp);
-        cout << "PRODAVNICA SA NAJMANJOM PROSECNOM CENOM JE: " << *tmp << endl;
+        cout << "PRODAVNICA SA NAJMANJOM PROSECNOM CENOM JE:" << endl << *tmp << endl;
     }
 
 };

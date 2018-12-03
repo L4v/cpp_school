@@ -52,12 +52,12 @@ public:
     }
 
     friend ostream& operator << (ostream& o, const Prodavnica& p){
-        o << "PRODAVNICA: " << p.naziv << "PROIZVODI: " << endl;
+        o << "PRODAVNICA: " << p.naziv << endl <<  " PROIZVODI: " << endl;
         Proizvod* tmp;
         for(int i = 0; i < p.proizvodi.size(); i ++){
             p.proizvodi.read(i + 1, tmp);
             tmp->ispisi();
-            o << endl;
+            cout << endl;
         }
         return o;
     }

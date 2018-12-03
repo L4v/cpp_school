@@ -25,7 +25,8 @@ public:
     }
 
     void ispisi() const{
-        cout << "IME: " << this->naziv << "ZEMLJA POREKLA VOCA: " << this->zemljaPorekla << "ROK: " << this->rokTrajanja << "CENA: " << this->cena << endl;
+        Proizvod::ispisi();
+        cout << "VOCE: " << this->naziv << endl << "ZEMLJA POREKLA VOCA: " << this->zemljaPorekla << endl <<"ROK: " << this->rokTrajanja<<endl;
     }
 
 };

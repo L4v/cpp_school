@@ -51,25 +51,28 @@ public:
     int getBrojVelikih() const { return velike; }
 
     void ispisi() const{
-        if(this->velicina != L && this->velicina != XL){
-            cout << (tip == MAJICA ? "MAJICA " : "PANTALONE ");
-            switch(velicina){
-            case XS:
-                cout << "XS ";
-                break;
-            case S:
-                cout << "S ";
-                break;
-            case M:
-                cout << "M ";
-                break;
-            default:
-                cout << "GRESKA U ISPISU ODECE" << endl;
-            }
-
-            cout << "CENA: " << this->cena;
+        Proizvod::ispisi();
+        cout << "TIP: " << (tip == MAJICA ? " MAJICA " : " PANTALONE ") << endl<<"VELICINA: " ;
+        switch(velicina){
+        case XS:
+            cout << "XS ";
+            break;
+        case S:
+            cout << "S ";
+            break;
+        case M:
+            cout << "M ";
+            break;
+        case L:
+            cout << "L ";
+            break;
+        case XL:
+            cout << "XL ";
+            break;
+        default:
+            cout << "GRESKA U ISPISU ODECE" << endl;
         }
-
+        cout << endl;
     }
 
 };
