@@ -1,0 +1,15 @@
+package paket;
+import paket.Pravougaonik;
+
+public class Main {
+	public static void Main(String[] args) {
+
+	}
+
+	Pravougaonik p1 = new Pravougaonik(10, 20);
+	Pravougaonik p2 = new Pravougaonik(20, 30);
+	Pravougaonik p3 = new Pravougaonik(p2);
+			
+	System.out.println("Prvi pravougaonik: ");
+	
+}

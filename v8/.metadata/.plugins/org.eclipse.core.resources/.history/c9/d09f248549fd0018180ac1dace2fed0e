@@ -1,0 +1,10 @@
+package paket;
+
+public class TestNiz {
+	public static int[] celi;
+	public static double[] realni;
+	public static void main(String[] args) {
+
+	}
+
+}

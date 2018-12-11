@@ -1,0 +1,4 @@
+
+public class pravougaonik {
+	private double a, b;
+}

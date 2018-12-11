@@ -1,0 +1,13 @@
+package paket;
+import paket.Pravougaonik;
+
+public class TestNiz {
+	public static int[] celi;
+	public static double[] realni;
+	public static Pravougaonik[] pravougaonici;
+	
+	public static void main(String[] args) {
+		
+	}
+
+}

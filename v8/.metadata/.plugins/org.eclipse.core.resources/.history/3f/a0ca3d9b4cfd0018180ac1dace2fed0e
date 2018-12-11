@@ -1,0 +1,18 @@
+package paket;
+import paket.Krug;
+import paket.Pravougaonik;
+
+public class Valjak {
+	private Krug krug;
+	private Pravougaonik pr;
+	
+	public Valjak(Krug k, Pravougaonik p){
+		this.krug = k;
+		this.pr = p;
+	}
+	
+	public Valjak(Valjak v){
+		this.krug = v.krug;
+		this.pr = v.pr;
+	}
+}

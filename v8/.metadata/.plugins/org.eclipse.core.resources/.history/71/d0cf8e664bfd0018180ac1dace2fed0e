@@ -1,0 +1,55 @@
+package paket;
+
+public class Pravougaonik {
+	public double a, b;
+	public double povrsina, obim;
+	
+	public Pravougaonik(double a, double b, double povrsina, double obim){
+		this.a = a;
+		this.b = b;
+		this.povrsina = povrsina;
+		this.obim = obim;
+	}
+	
+	public Pravougaonik(Pravougaonik p){
+		p.a = a;
+		p.b = b;
+		p.povrsina = povrsina;
+		p.obim = obim;
+	}
+
+	public double getA() {
+		return a;
+	}
+
+	public void setA(double a) {
+		this.a = a;
+	}
+
+	public double getB() {
+		return b;
+	}
+
+	public void setB(double b) {
+		this.b = b;
+	}
+
+	public double getPovrsina() {
+		return povrsina;
+	}
+
+	public void setPovrsina(double povrsina) {
+		this.povrsina = povrsina;
+	}
+
+	public double getObim() {
+		return obim;
+	}
+
+	public void setObim(double obim) {
+		this.obim = obim;
+	}
+	
+	
+	
+}

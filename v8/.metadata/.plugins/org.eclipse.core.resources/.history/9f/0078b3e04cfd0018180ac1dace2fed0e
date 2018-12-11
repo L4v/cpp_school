@@ -1,0 +1,15 @@
+package paket;
+import paket.Valjak;
+
+public class Main {
+	
+	public static Valjak valjak;
+	public static Pravougaonik p;
+	public static Krug k;
+	
+	public static void main(String[] args) {
+
+
+	}
+
+}

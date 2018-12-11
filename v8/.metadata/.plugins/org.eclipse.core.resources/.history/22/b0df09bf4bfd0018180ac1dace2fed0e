@@ -1,0 +1,7 @@
+package paket;
+import paket.Krug;
+import paket.Pravougaonik;
+
+public class Valjak {
+
+}

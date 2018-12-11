@@ -1,0 +1,17 @@
+package paket;
+
+public class Krug {
+	private double r, povrsina, obim;
+	
+	public Krug(double r, double p, double o){
+		this.r = r;
+		this.povrsina = p;
+		this.obim = o;
+	}
+	
+	public Krug(Krug k){
+		k.r = r;
+		k.povrsina = povrsina;
+		k.obim = obim;
+	}
+}

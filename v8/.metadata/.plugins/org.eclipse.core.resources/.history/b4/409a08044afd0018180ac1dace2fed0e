@@ -1,0 +1,27 @@
+package paket;
+import paket.Pravougaonik;
+
+public class TestNiz {
+	public static int[] celi;
+	public static double[] realni;
+	public static Pravougaonik[] pravougaonici;
+	
+	public static void main(String[] args) {
+		System.out.println("Pravougaonici (povrsine): ");
+		for(Pravougaonik p : pravougaonici){
+			System.out.println()
+		}
+	}
+
+	public static Pravougaonik najveci(Pravougaonik[] pravougaonici){
+		Pravougaonik najveci = pravougaonici[0];
+		for(Pravougaonik p : pravougaonici){
+			if(p.getP() > najveci.getP())
+				najveci = p;
+		}
+		
+		
+		return najveci;
+	}
+	
+}

@@ -1,0 +1,9 @@
+package paket;
+
+public class Krug {
+	private double r, povrsina, obim;
+	
+	public Krug(double r, double p, double o){
+		
+	}
+}

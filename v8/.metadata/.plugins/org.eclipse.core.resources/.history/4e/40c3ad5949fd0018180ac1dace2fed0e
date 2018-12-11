@@ -1,0 +1,9 @@
+package paket;
+
+public class TestNiz {
+	
+	public static void main(String[] args) {
+
+	}
+
+}

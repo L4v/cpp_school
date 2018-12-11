@@ -1,0 +1,11 @@
+package paket.*;
+
+public class Main {
+	public static void Main(String[] args) {
+
+	}
+	
+	Pravougaonik = new Pravougaonik(10, 20);
+			
+	
+}

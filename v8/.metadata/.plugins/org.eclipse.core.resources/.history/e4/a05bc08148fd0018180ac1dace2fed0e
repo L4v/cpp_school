@@ -1,0 +1,18 @@
+package paket;
+import paket.Pravougaonik;
+import java.lang.*;
+
+
+
+public class Main {
+	
+	private static Pravougaonik p1 = new Pravougaonik(10, 20);
+	private static Pravougaonik p2 = new Pravougaonik(20, 30);
+	private static Pravougaonik p3 = new Pravougaonik(p2);
+	
+	public static void Main(String[] args) {
+		System.out.println("Prvi pravougaonik: " + p1.getO());
+	}
+			
+	
+}

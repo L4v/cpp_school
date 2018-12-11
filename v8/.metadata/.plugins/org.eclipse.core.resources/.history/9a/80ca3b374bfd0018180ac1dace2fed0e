@@ -1,0 +1,17 @@
+package paket;
+
+public class Pravougaonik {
+	public double a, b;
+	public double povrsina, obim;
+	
+	public Pravougaonik(double a, double b){
+		this.a = a;
+		this.b = b;
+	}
+	
+	public Pravougaonik(Pravougaonik p){
+		p.a = a;
+		p.b = b;
+	}
+	
+}

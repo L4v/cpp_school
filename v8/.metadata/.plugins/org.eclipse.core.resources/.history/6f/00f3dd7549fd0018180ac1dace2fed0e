@@ -1,0 +1,9 @@
+package paket;
+
+public class TestNiz {
+	public static Array<int> celi = new Array<int>();
+	public static void main(String[] args) {
+
+	}
+
+}
