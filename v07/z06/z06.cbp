@@ -32,6 +32,7 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="board.hpp" />
 		<Unit filename="checkbox.hpp" />
 		<Unit filename="component.hpp" />
 		<Unit filename="dinstring.cpp" />

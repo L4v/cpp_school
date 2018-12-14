@@ -29,10 +29,12 @@ int main()
     cout << "TESTIRANJE ISPISA PRODAVNICE:" << endl << p1 << p2 << p3 << endl;
     cout << "TESTIRANJE ISPISA PROIZVODA:" << endl;
     o1.ispisi(); cout << endl;o2.ispisi();cout << endl; o3.ispisi();cout << endl;v1.ispisi();cout << endl; v2.ispisi();cout << endl; v3.ispisi();cout << endl;
-    cout << "test";
-    o2.ispisi();
-
+    cout << "TESTIRANJE ISPISA NAJJEFTINIJE PRODAVNICE U GRADU:" <<endl;
     ns.ispisiNajjeftiniju();
+    cout << "TEST UKLANJANJA PROIZVODA IZ PRODAVNICE PO IMENU:" << endl;
+    cout << (p1.obrisi(o1) == true ? "o1 OBRISAN" : "o1 NIJE OBRISAN") << endl;
+    cout << "TEST UKLANJANJA PROIZVODA IZ PRODAVNICE PO INDEKSU:" << endl;
+    cout << (p1.obrisi(1)== 1 ? "OBRISAN" : "NIJE OBRISAN") << endl;
 
 
     return 0;

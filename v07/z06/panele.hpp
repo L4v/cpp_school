@@ -22,6 +22,10 @@ public:
     DinString& getTypeName() const{ return typeName; }
 
     void printComponent() const{
+        if(components.size() == 0){
+            cout << "PRAZNA PANELA" << endl;
+            return;
+        }
         Component::printComponent();
         Component* tmp;
         for(int i = 0; i < components.size(); i ++){
