@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1543754766 source:/home/hk-47/workspace/cpp/cpp_school/v06/z03/dinstring.cpp
+	"dinstring.hpp"
+
+1543754766 /home/hk-47/workspace/cpp/cpp_school/v06/z03/dinstring.hpp
+	<iostream>
+
+1543755573 source:/home/hk-47/workspace/cpp/cpp_school/v06/z03/main.cpp
+	<iostream>
+	"telefongen3.hpp"
+
+1543754774 /home/hk-47/workspace/cpp/cpp_school/v06/z03/telefongen3.hpp
+	"telefongen2.hpp"
+	"videokamera.hpp"
+
+1543755415 /home/hk-47/workspace/cpp/cpp_school/v06/z03/telefongen2.hpp
+	"telefon.hpp"
+	"kamera.hpp"
+
+1543754804 /home/hk-47/workspace/cpp/cpp_school/v06/z03/telefon.hpp
+	"dinstring.hpp"
+
+1543755766 /home/hk-47/workspace/cpp/cpp_school/v06/z03/kamera.hpp
+
+1543755431 /home/hk-47/workspace/cpp/cpp_school/v06/z03/videokamera.hpp
+	"kamera.hpp"
+

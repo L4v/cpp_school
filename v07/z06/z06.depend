@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1543779501 source:/home/hk-47/workspace/cpp/cpp_school/v07/z06/dinstring.cpp
+	"dinstring.hpp"
+
+1543779501 /home/hk-47/workspace/cpp/cpp_school/v07/z06/dinstring.hpp
+	<iostream>
+
+1543877769 source:/home/hk-47/workspace/cpp/cpp_school/v07/z06/main.cpp
+	<iostream>
+	"panele.hpp"
+	"checkbox.hpp"
+	"label.hpp"
+	"board.hpp"
+
+1543877494 /home/hk-47/workspace/cpp/cpp_school/v07/z06/panele.hpp
+	"component.hpp"
+	"list.hpp"
+
+1543781083 /home/hk-47/workspace/cpp/cpp_school/v07/z06/component.hpp
+	"dinstring.hpp"
+	<iostream>
+
+1543779501 /home/hk-47/workspace/cpp/cpp_school/v07/z06/list.hpp
+	<stdlib.h>
+	<iostream>
+
+1543781261 /home/hk-47/workspace/cpp/cpp_school/v07/z06/checkbox.hpp
+	"component.hpp"
+
+1543781233 /home/hk-47/workspace/cpp/cpp_school/v07/z06/label.hpp
+	"component.hpp"
+
+1543878085 /home/hk-47/workspace/cpp/cpp_school/v07/z06/board.hpp
+	"component.hpp"
+

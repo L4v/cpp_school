@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1543749999 source:/home/hk-47/workspace/cpp/cpp_school/v06/z02/dinstring.cpp
+	"dinstring.hpp"
+
+1543749999 /home/hk-47/workspace/cpp/cpp_school/v06/z02/dinstring.hpp
+	<iostream>
+
+1543753394 source:/home/hk-47/workspace/cpp/cpp_school/v06/z02/main.cpp
+	<iostream>
+	"androidapp.hpp"
+	"desktopapp.hpp"
+	"application.hpp"
+
+1543753333 /home/hk-47/workspace/cpp/cpp_school/v06/z02/androidapp.hpp
+	"application.hpp"
+
+1543753286 /home/hk-47/workspace/cpp/cpp_school/v06/z02/application.hpp
+	"dinstring.hpp"
+	<iostream>
+
+1543753522 /home/hk-47/workspace/cpp/cpp_school/v06/z02/desktopapp.hpp
+	"application.hpp"
+	"computer.hpp"
+
+1543753311 /home/hk-47/workspace/cpp/cpp_school/v06/z02/computer.hpp
+	"dinstring.hpp"
+	<iostream>
+
