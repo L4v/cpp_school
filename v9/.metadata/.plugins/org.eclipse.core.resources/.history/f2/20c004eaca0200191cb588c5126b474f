@@ -1,0 +1,11 @@
+package z01;
+
+public class CDDisk {
+	protected int id;
+	protected String naziv, izvodjac;
+	
+	@Override
+	public String toString(){
+		return "ID: " + Integer.toString(id) + "IZVODJAC: " + izvodjac + "NAZIV: " + naziv;
+	}
+}

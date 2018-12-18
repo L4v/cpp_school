@@ -1,0 +1,7 @@
+package z01;
+
+import java.util.HashMap;
+
+public class XCDStorageMap {
+	private HashMap<Integer, CDDisk> mapa;
+}
