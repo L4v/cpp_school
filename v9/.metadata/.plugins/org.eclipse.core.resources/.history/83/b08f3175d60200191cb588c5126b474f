@@ -1,0 +1,5 @@
+package z04;
+
+public class Osoba {
+	private String ime = "", prezime = "";
+}

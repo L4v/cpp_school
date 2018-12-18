@@ -1,0 +1,11 @@
+package z04;
+
+public class Test {
+
+	Osoba o1, o2, o3, o4;
+	public static void main(String[] args) {
+		o1 = new Osoba("Pera", "Peric");
+		o2 = new Osoba("Neko", "Nestovic");
+	}
+
+}

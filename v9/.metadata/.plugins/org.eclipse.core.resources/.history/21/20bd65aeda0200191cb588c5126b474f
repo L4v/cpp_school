@@ -1,0 +1,7 @@
+package z05;
+
+public class Restoran {
+	private String naziv = "", adresa = "";
+	private ArrayList<Stavka> jelovnik;
+	
+}

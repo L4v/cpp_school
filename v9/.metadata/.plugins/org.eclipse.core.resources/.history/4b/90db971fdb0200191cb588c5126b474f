@@ -1,0 +1,36 @@
+package z05;
+
+import java.util.ArrayList;
+
+public class Restoran {
+	private String naziv = "", adresa = "";
+	private ArrayList<Stavka> jelovnik;
+	
+	
+	
+	public Restoran(String naziv, String adresa) {
+		this.naziv = naziv;
+		this.adresa = adresa;
+		this.jelovnik = new ArrayList<Stavka>();
+	}
+	/*
+	 * Getteri i setteri
+	 */
+	public String getNaziv() {
+		return naziv;
+	}
+	public void setNaziv(String naziv) {
+		this.naziv = naziv;
+	}
+	public String getAdresa() {
+		return adresa;
+	}
+	public void setAdresa(String adresa) {
+		this.adresa = adresa;
+	}
+	
+	public void import(String s){
+		
+	}
+	
+}
