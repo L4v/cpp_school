@@ -1,0 +1,14 @@
+package z05;
+
+/*
+ * Test klasa
+ */
+public class Test {
+
+	public static Restoran restoran;
+	
+	public static void main(String[] args) {
+		restoran = new Restoran("Masinac", "Nebitno");
+	}
+
+}

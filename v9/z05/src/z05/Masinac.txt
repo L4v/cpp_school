@@ -1,0 +1,9 @@
+Restoran Masinac
+Adresa: Nebitno
+
+Jelovnik
+******************
+Pljeskavica 150.0
+Belo meso 200.0
+Cevapi 170.0
+******************

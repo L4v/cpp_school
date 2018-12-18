@@ -1,5 +1,8 @@
 package z05;
 
+/*
+ * Klasa Stavka
+ */
 public class Stavka {
 	private String naziv = "";
 	private double cena;

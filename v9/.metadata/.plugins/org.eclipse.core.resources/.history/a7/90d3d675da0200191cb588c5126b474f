@@ -1,6 +1,0 @@
-package z05;
-
-public class Restoran {
-	private String naziv;
-	
-}
