@@ -18,7 +18,7 @@ public class CDDisk {
 
 	@Override
 	public String toString(){
-		return "ID: " + Integer.toString(id) + " IZVODJAC: " + izvodjac + " NAZIV: " + naziv;
+		return "ID: " + Integer.toString(id) + "IZVODJAC: " + izvodjac + "NAZIV: " + naziv;
 	}
 
 	public int getId() {

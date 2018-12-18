@@ -32,12 +32,12 @@ public class XCDStorageMap {
 	}
 	
 	public String toString(){
-		String temp = new String("Mapa:\n");
+		String temp = new String("Mapa: ");
 		/*for (Map.Entry<Integer, CDDisk> m : mapa.entrySet()) {
 			temp += "ID: " + m.getKey() + "\tDISK: " + m.getValue();
 		}*/
-		for (CDDisk d : mapa.values()) {
-			temp += d + "\n";
+		for (CDDisk iterable_element : iterable) {
+			
 		}
 		return temp;
 	}

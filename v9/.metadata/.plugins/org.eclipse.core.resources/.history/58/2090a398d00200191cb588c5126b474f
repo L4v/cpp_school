@@ -43,9 +43,9 @@ public class XCDStorage{
 	
 	@Override
 	public String toString(){
-		String temp = new String("Diskovi:\n");
+		String temp = new String("Diskovi:");
 		for(CDDisk d : diskovi){
-			temp += d + "\n";
+			temp += "\n" + d;
 		}
 		return temp;
 	}

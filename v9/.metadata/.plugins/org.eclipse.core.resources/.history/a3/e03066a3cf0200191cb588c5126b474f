@@ -1,0 +1,11 @@
+package z01;
+
+public class Test {
+
+	public static XCDStorageMap mapa;
+	public static XCDStorage arhiva;
+	public static void main(String[] args) {
+
+	}
+
+}

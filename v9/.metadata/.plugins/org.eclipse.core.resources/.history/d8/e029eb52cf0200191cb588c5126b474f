@@ -11,10 +11,10 @@ public class XCDStorageMap {
 	}
 	
 	public boolean addCD(CDDisk cd){
-		
-		if(mapa.containsKey(cd))
-			return false;
-		
+		for(int i = 0; i < mapa.size(); i ++){
+			if(mapa.containsKey(cd))
+				return false;
+		}
 		mapa.put(cd.getId(), cd);
 		return true;
 	}
@@ -32,12 +32,9 @@ public class XCDStorageMap {
 	}
 	
 	public String toString(){
-		String temp = new String("Mapa:\n");
-		/*for (Map.Entry<Integer, CDDisk> m : mapa.entrySet()) {
+		String temp = new String("Mapa: ");
+		for (Map.Entry<Integer, CDDisk> m : mapa.entrySet()) {
 			temp += "ID: " + m.getKey() + "\tDISK: " + m.getValue();
-		}*/
-		for (CDDisk d : mapa.values()) {
-			temp += d + "\n";
 		}
 		return temp;
 	}
