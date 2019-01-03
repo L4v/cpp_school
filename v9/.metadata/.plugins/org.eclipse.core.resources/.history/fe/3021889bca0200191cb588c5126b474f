@@ -1,6 +1,0 @@
-package z01;
-
-public class CDDisk {
-	protected int id;
-	protected String naziv, izvodjac;
-}

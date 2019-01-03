@@ -1,6 +1,0 @@
-package z05;
-
-public class Stavka {
-	private String naziv = "";
-	private double cena;
-}

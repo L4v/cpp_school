@@ -1,7 +1,0 @@
-package z01;
-
-import z01.CDDisk;
-
-public class XCDStorageMap {
-	private ArrayList<Integer, CDDisk> mapa;
-}
