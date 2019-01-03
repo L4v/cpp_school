@@ -1,16 +1,16 @@
 package z01;
-/*
+/**
  * Ovo je prepisan zadatak iz C++ -> Java
  * v06/z02
- * Author: Jovan Ivosevic
+ * @author Jovan Ivosevic
  */
 
-/*
+/**
  * Main klasa
  */
 public class Test {
 
-	/*
+	/**
 	 * Main metoda za testiranje
 	 * Destrukcija objekata necemo testirati jer Java je "garbage collected language" i
 	 * objekte cuva na heap-u, te nismo sto posto sigurni kada se koji objekat 
@@ -33,6 +33,7 @@ public class Test {
 		c1 = new Computer();
 		c2 = new Computer(256.5, 8, "2080Ti", "Arch");
 		c3 = new Computer(c2);
+		
 		
 		a1 = new Application();
 		a2 = new Application("C", "Petar Petrovic", 123.2);

@@ -1,6 +1,6 @@
 package z01;
 
-/*
+/**
  * Application klasa
  */
 public class Application {
@@ -10,7 +10,7 @@ public class Application {
 	protected double sizeMB;
 	public static int appCount = 0;
 	
-	/*
+	/**
 	 * Prazan konstruktor
 	 */
 	public Application() {
@@ -20,7 +20,7 @@ public class Application {
 		appCount ++;
 	}
 
-	/*
+	/**
 	 * Konstruktor sa parametrima
 	 */
 	public Application(String language, String author, double sizeMB) {
@@ -30,7 +30,7 @@ public class Application {
 		appCount ++;
 	}
 	
-	/*
+	/**
 	 * Konstruktor kopije
 	 */
 	public Application(Application a) {
@@ -40,14 +40,14 @@ public class Application {
 		appCount ++;
 	}
 
-	/*
+	/**
 	 * Ispis broja instanci
 	 */
 	public int getCount() {
 		return appCount;
 	}
 	
-	/*
+	/**
 	 * toString za ispis
 	 */
 	@Override

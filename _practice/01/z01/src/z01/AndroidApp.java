@@ -1,6 +1,6 @@
 package z01;
 
-/*
+/**
  * AndroidApp klasa
  */
 public class AndroidApp extends Application{
@@ -9,7 +9,7 @@ public class AndroidApp extends Application{
 	private double minVersion, targetVersion;
 	public static int androidCount = 0;
 	
-	/*
+	/**
 	 * Konstruktor bez parametara
 	 */
 	public AndroidApp() {
@@ -20,7 +20,7 @@ public class AndroidApp extends Application{
 		androidCount ++;
 	}
 
-	/*
+	/**
 	 * Konstrutkor sa parametrima
 	 */
 	public AndroidApp(double minVersion, double targetVersion, double size) {
@@ -41,7 +41,7 @@ public class AndroidApp extends Application{
 		androidCount ++;
 	}
 
-	/*
+	/**
 	 * Ispis broja instanci
 	 */
 	@Override
@@ -49,7 +49,7 @@ public class AndroidApp extends Application{
 		return androidCount;
 	}
 
-	/*
+	/**
 	 * toString za ispis
 	 */
 	@Override

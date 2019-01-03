@@ -1,6 +1,6 @@
 package z01;
 
-/*
+/**
  * Computer klasa
  */
 public class Computer {
@@ -9,7 +9,7 @@ public class Computer {
 	private double hddGB, ramGB;
 	private String gCard, os;
 	
-	/*
+	/**
 	 * Prazan konstruktor
 	 */
 	public Computer() {
@@ -19,7 +19,7 @@ public class Computer {
 		this.os = "BSD";
 	}
 	
-	/*
+	/**
 	 * Konstruktor sa parametrima
 	 */
 	public Computer(double hddGB, double ramGB, String gCard, String os) {
@@ -29,7 +29,7 @@ public class Computer {
 		this.os = os;
 	}
 	
-	/*
+	/**
 	 * Konstruktor kopije
 	 */
 	public Computer(Computer c) {
@@ -39,7 +39,7 @@ public class Computer {
 		this.os = c.os;
 	}
 
-	/*
+	/**
 	 * toString kao operator ispisa
 	 */
 	@Override
