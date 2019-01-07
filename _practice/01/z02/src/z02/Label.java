@@ -68,4 +68,9 @@ public class Label extends Component{
 		return typeName;
 	}
 
+	@Override
+	public String toString() {
+		return "Label [text=" + text + ", X=" + X + ", Y=" + Y + "]";
+	}
+
 }

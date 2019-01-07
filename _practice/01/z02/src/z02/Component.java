@@ -1,11 +1,14 @@
 package z02;
 
+import java.io.Serializable;
+
 /**
  * Apstraktna klasa za Component
  * @author Jovan Ivosevic RA30/17
  *
  */
-public abstract class Component {
+@SuppressWarnings("serial")
+public abstract class Component implements Serializable{
 	protected double X, Y;
 	
 	/**
@@ -37,5 +40,11 @@ public abstract class Component {
 	 * @return typeName Component-a
 	 */
 	public abstract String getTypeName();
+
+	@Override
+	public String toString() {
+		return "Component [X=" + X + ", Y=" + Y + "]";
+	}
+	
 	
 }

@@ -53,4 +53,10 @@ public class CheckBox extends Component {
 		return typeName;
 	}
 
+	@Override
+	public String toString() {
+		return "CheckBox [pressed=" + pressed + ", X=" + X + ", Y=" + Y + "]";
+	}
+	
+
 }

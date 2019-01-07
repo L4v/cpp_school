@@ -1,0 +1,1 @@
+Panel [capacity=30, components=[CheckBox [pressed=false, X=0.0, Y=0.0], CheckBox [pressed=false, X=20.0, Y=16.0], Label [text=Lorem Ipsum, X=10.0, Y=30.0]], typeName=Panel, X=0.0, Y=0.0]

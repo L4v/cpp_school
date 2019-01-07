@@ -95,4 +95,10 @@ public class Panel extends Component {
 		return typeName;
 	}
 
+	@Override
+	public String toString() {
+		return "Panel [capacity=" + capacity + ", components=" + components + ", typeName=" + typeName + ", X=" + X
+				+ ", Y=" + Y + "]";
+	}
+
 }
