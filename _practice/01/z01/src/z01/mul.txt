@@ -1,0 +1,3 @@
+Application [language=C, author=Petar Petrovic, sizeMB=123.2]
+AndroidApp [minVersion=1.0, targetVersion=42.314, language=Java, author=Joe The Tech, sizeMB=3.14]
+DesktopApp [minSysReq=Computer [hddGB=0.0, ramGB=0.0, gCard=VOODOO, os=BSD], optimumSysReq=Computer [hddGB=256.5, ramGB=8.0, gCard=2080Ti, os=Arch], language=C, author=Joe The Tech, sizeMB=100.0]

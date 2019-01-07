@@ -1,9 +1,12 @@
 package z01;
 
+import java.io.Serializable;
+
 /**
  * Application klasa
  */
-public class Application {
+@SuppressWarnings("serial")
+public class Application implements Serializable {
 	
 	// Polja
 	protected String language, author;
